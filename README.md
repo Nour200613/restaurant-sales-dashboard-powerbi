@@ -59,4 +59,6 @@ It helps analyze restaurant performance by tracking sales trends, customer behav
 - Category analysis helps identify the best-performing food types.
 
 ## 👤 Author
-**Nour El**
+**Nour Eldeen**  
+🔗 GitHub: https://github.com/Nour200613  
+🔗 LinkedIn: www.linkedin.com/in/nour7
